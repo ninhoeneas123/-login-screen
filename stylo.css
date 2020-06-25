@@ -1,0 +1,89 @@
+body{
+margin: 0px;
+background-color: rgb(73, 219, 224);
+
+}
+
+.Login{
+margin-left: 650px;
+margin-top: 50px;
+
+}
+
+.img{
+margin-left: 550px;
+
+
+
+}
+
+.img img {
+
+height: 390px;
+width: auto;
+
+}
+
+.form{
+padding: 15px;
+width: 350px;
+height: auto;
+border: 2px solid black;
+border-top-right-radius: 35px ;
+border-bottom-left-radius: 35px ;
+margin-top: 240px;
+margin-left: 615px;
+box-shadow: 20px 20px 10px 5px rgb(31, 30, 30) ;
+background-color: white;
+}
+
+.title{
+ font-family: Gill Sans, sans-serif;
+ font-size: 25px;
+ margin-left: 110px;
+}
+
+.user{
+margin-top:45px;
+font-size: 19px;
+margin-left: 35px;    
+}
+.user input {
+ height: 30px;
+ padding: 5px;
+}
+
+.pass{
+ font-size: 19;   
+margin-top: 10px;
+margin-left: 35px ;    
+}
+
+.pass input{
+height: 30px;
+padding: 5px;
+
+}
+
+.btn{
+margin-left: 95px;
+margin-top: 5px;
+
+
+}
+.btn button{
+height: 40px;
+width: 75px;
+font-weight: bold;
+font-size: 15px ;
+
+
+}
+
+.alert{
+margin-top: 5px;
+margin-left: 20px;
+margin-bottom: 5px;
+color: red;
+font-weight: bold;
+}
